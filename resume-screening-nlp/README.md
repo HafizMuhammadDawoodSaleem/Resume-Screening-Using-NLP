@@ -208,26 +208,9 @@ For a manual semantic smoke test, run the default CLI command above and confirm 
 - Front-end limits: 50 file uploads or 200 resume CSV rows per comparison. The CLI supports larger datasets but computes in memory and is intended for modest batches.
 - Dependency ranges are provided, not a fully locked deployment environment. See validation notes for what was actually exercised.
 
-## Put it on GitHub
-
-Create an empty repository in GitHub, then run these commands from this project folder. Replace the example URL with your repository URL:
-
-```bash
-git init
-git add .
-git commit -m "Add NLP resume screening project"
-git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/resume-screening-nlp.git
-git push -u origin main
-```
-
-Before committing, use `git status` to confirm that no real resumes, private data, environment files or generated outputs are included. Choose a license before public redistribution; no license has been selected on your behalf.
-
 ## References
 
 - [Sentence Transformers: semantic textual similarity](https://sbert.net/docs/sentence_transformer/usage/semantic_textual_similarity.html)
 - [SentenceTransformer API](https://sbert.net/docs/package_reference/sentence_transformer/model.html)
 - [Streamlit file uploader](https://docs.streamlit.io/develop/api-reference/widgets/st.file_uploader)
 - [scikit-learn cosine similarity](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.cosine_similarity.html)
-
-Built for **Task 8: Resume Screening Using NLP**.
