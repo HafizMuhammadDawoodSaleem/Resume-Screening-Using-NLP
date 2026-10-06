@@ -1,0 +1,6 @@
+id,name,resume_text
+R001,Candidate A — Data analyst,"Data analyst with three years of experience using Python, SQL, pandas and Excel. Built Power BI dashboards to report sales KPIs. Cleaned customer datasets and presented statistical findings to business stakeholders."
+R002,Candidate B — Web developer,"Front-end developer building responsive interfaces with JavaScript, TypeScript, React, HTML and CSS. Integrated REST APIs and wrote browser tests. Collaborated with designers on accessible web applications."
+R003,Candidate C — NLP engineer,"Machine learning engineer using Python, pandas, scikit-learn and PyTorch. Built NLP pipelines with sentence transformers, text embeddings, cosine similarity and semantic search. Evaluated models and deployed inference APIs."
+R004,Candidate D — Accountant,"Accountant experienced in financial reporting, general ledger reconciliations and payroll. Prepared monthly management reports using Excel and accounting software. Managed budgets, vendor payments and audit documentation."
+R005,Candidate E — Operations analyst,"Operations analyst with two years of experience in Excel, SQL and Power BI. Automated weekly KPI reports, built inventory dashboards and communicated recommendations to operations managers. Learning Python for data cleaning."

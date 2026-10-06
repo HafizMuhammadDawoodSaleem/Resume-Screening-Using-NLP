@@ -1,0 +1,1 @@
+Machine learning engineer using Python, pandas, scikit-learn and PyTorch. Built NLP pipelines with sentence transformers, text embeddings, cosine similarity and semantic search. Evaluated models and deployed inference APIs.

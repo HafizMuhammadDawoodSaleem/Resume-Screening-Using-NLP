@@ -1,0 +1,4 @@
+id,title,description
+J001,Junior Data Analyst,"Analyze business data with Python, SQL, pandas and Excel. Clean datasets, build Power BI dashboards, report KPIs and communicate statistical findings to stakeholders."
+J002,Front-end Developer,"Build accessible responsive web interfaces using React, TypeScript, JavaScript, HTML and CSS. Integrate REST APIs, collaborate with designers and write browser tests."
+J003,NLP Engineer,"Develop NLP pipelines using Python, sentence transformers, text embeddings and semantic search. Use cosine similarity, PyTorch and scikit-learn to evaluate models and deploy inference APIs."

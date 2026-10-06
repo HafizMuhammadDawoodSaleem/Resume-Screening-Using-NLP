@@ -1,0 +1,1 @@
+Front-end developer building responsive interfaces with JavaScript, TypeScript, React, HTML and CSS. Integrated REST APIs and wrote browser tests. Collaborated with designers on accessible web applications.
