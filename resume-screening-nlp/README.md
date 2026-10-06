@@ -2,7 +2,7 @@
 
 Rank resumes against a job description using **Sentence Transformers embeddings** and **cosine similarity**, then inspect a relevant resume excerpt for each result.
 
-Includes a Streamlit upload interface, batch command line tool, fictional sample datasets, and automated tests. This is an educational, locally runnable project—not a validated automated hiring system.
+Includes a Streamlit upload interface, batch command line tool, fictional sample datasets, and automated tests. This is an educational, locally runnable project not a validated automated hiring system.
 
 ## Features
 
